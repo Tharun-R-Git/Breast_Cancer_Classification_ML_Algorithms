@@ -1,0 +1,1 @@
+This project uses the Breast Cancer dataset from scikit-learn to build and evaluate multiple classification models including Logistic Regression, SVM, k-NN, Decision Tree, Random Forest, and Naive Bayes. The models are compared based on accuracy, precision, recall, and F1-score. Visualizations like ROC curve, Precision-Recall curve, and confusion matrix are also included.
